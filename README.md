@@ -16,12 +16,17 @@ Parts List:
 -- J1: 50 pin right angle edge connector\
 -- J2: 50 pin right angle female SCSI connector
 
+-3D brackets:\
+--Screws are M2.5 x (3.5mm ~ 5mm)\
+--Inserts are M2.5 x 3 x (3.5mm ~ 5mm)
+
 -Parts Link:\
 https://a.aliexpress.com/_mt0LCd1 \
 https://a.aliexpress.com/_mOBWXzN \
-https://a.aliexpress.com/_mtktSyJ
+https://a.aliexpress.com/_mtktSyJ \
+https://www.aliexpress.com/item/3256808357131162.htm 
 
--Screws are M2.5 x 5mm
+
 
 You are welcome to make and sell the adapter to the MSX community if you agree not to touch the original files. 
 Don't add new text or logos... don't change anything at all and it is all good.
