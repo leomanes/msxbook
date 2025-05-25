@@ -1,5 +1,7 @@
 # Msxbook external slot 2 adapter
 
+![](Pictures/external_slot.jpg)
+
 Parts List:
 
 -Main PCB:\
