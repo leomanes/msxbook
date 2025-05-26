@@ -12,7 +12,7 @@ Parts List:
 -- J2: 50 pin right angle male SCSI connector
 
 -External PCB:\
--- C1: 200uf 25v\
+-- C1: 220uf 25v\
 -- C2: 220uf 25v\
 -- C3: 470uf 16v\
 -- J1: 50 pin right angle edge connector\
