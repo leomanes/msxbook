@@ -26,7 +26,7 @@ Parts List:
 https://a.aliexpress.com/_mt0LCd1 \
 https://a.aliexpress.com/_mOBWXzN \
 https://a.aliexpress.com/_mtktSyJ \
-https://www.aliexpress.com/item/3256808357131162.htm 
+https://www.aliexpress.com/item/3256808357131162.html 
 
 
 
