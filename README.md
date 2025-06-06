@@ -30,5 +30,7 @@ https://www.aliexpress.com/item/3256808357131162.html
 
 
 
-You are welcome to make and sell the adapter to the MSX community if you agree not to touch the original files. 
+You are welcome to make and sell the adapter to the MSX community if you agree not to change the original files. 
 Don't add new text or logos... don't change anything at all and it is all good.
+
+MSX FOREVER !!!
