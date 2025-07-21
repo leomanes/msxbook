@@ -23,7 +23,7 @@ Parts List:
 
 -3D brackets:\
 --Screws are M2.5 x 5mm\
---Inserts are M2.5 x 3mm 
+--Inserts are M2.5 x 2.5 x 3.5 
 
 -Parts Link:\
 https://a.aliexpress.com/_mOBWXzN \
