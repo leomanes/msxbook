@@ -8,16 +8,16 @@ Don't add new text or logos... don't change anything at all and it is all good.
 Parts List:
 
 -Main PCB:\
--- F1: 125ma to 375ma fuse (-12v line)\
--- F2: 800ma to 1A fuse (+5v line)\
--- F3: 400ma to 500ma fuse (+12v line)\
+-- F1: 125ma to 375ma fuse (-12v line) (optional but recomended)\
+-- F2: 800ma to 1A fuse (+5v line) (optional but recomended)\
+-- F3: 400ma to 500ma fuse (+12v line) (optional but recomended)\
 -- J1: 2x25 right angle pin header\
 -- J2: 50 pin right angle male SCSI connector
 
 -External PCB:\
--- C1: 100uf to 220uf 25v\
--- C2: 100uf to 220uf 25v\
--- C3: 220uf to 470uf 16v\
+-- C1: 100uf to 220uf 25v (optional)\
+-- C2: 100uf to 220uf 25v (optional)\
+-- C3: 220uf to 470uf 16v (optional)\
 -- J1: 50 pin right angle edge connector\
 -- J2: 50 pin right angle female SCSI connector
 
