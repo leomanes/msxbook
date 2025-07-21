@@ -29,7 +29,7 @@ Parts List:
 https://a.aliexpress.com/_mOBWXzN \
 https://www.aliexpress.us/item/2255800960638500.html (option: 2X25 50PIN) \
 https://www.aliexpress.com/item/3256808357131162.html (option: M2.5x2.5x3.5)
-SCSI connectors: single or pack
+SCSI connectors: single or pack 
 https://www.aliexpress.us/item/3256807779614080.html (option: 50 pin curved female and 50 pin curved male) \
 https://a.aliexpress.com/_mt0LCd1 (option: 50 pin curved female and 50 pin curved male) \
 
